@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Farel Immanuel"
+  pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Bogor, Indonesia"
+  employer         : "Bogor Agricultural University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "farelpurba09@gmail.com" 
 
   # Academic websites
   academia         : # URL
